@@ -26,4 +26,4 @@ management:
 
 访问路径为 `ip:port/actuator/{endpointId}/{path}`
 
-<a href="https://asciinema.org/a/DSCWHBzpm7t0SNdnFGjzyOz0N?autoplay=1"><img src="https://asciinema.org/a/DSCWHBzpm7t0SNdnFGjzyOz0N.png" width="836"/></a>
+<a href="https://asciinema.org/a/https://asciinema.org/a/QJiExhmWKtE5pIhy3wybVXGwn?autoplay=1"><img src="https://asciinema.org/a/DSCWHBzpm7t0SNdnFGjzyOz0N.png" width="836"/></a>
